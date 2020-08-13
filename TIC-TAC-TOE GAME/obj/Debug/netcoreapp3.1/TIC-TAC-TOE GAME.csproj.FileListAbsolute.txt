@@ -1,0 +1,12 @@
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\TIC-TAC-TOE GAME\TIC-TAC-TOE GAME\bin\Debug\netcoreapp3.1\TIC-TAC-TOE GAME.exe
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\TIC-TAC-TOE GAME\TIC-TAC-TOE GAME\bin\Debug\netcoreapp3.1\TIC-TAC-TOE GAME.deps.json
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\TIC-TAC-TOE GAME\TIC-TAC-TOE GAME\bin\Debug\netcoreapp3.1\TIC-TAC-TOE GAME.runtimeconfig.json
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\TIC-TAC-TOE GAME\TIC-TAC-TOE GAME\bin\Debug\netcoreapp3.1\TIC-TAC-TOE GAME.runtimeconfig.dev.json
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\TIC-TAC-TOE GAME\TIC-TAC-TOE GAME\bin\Debug\netcoreapp3.1\TIC-TAC-TOE GAME.dll
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\TIC-TAC-TOE GAME\TIC-TAC-TOE GAME\bin\Debug\netcoreapp3.1\TIC-TAC-TOE GAME.pdb
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\TIC-TAC-TOE GAME\TIC-TAC-TOE GAME\obj\Debug\netcoreapp3.1\TIC-TAC-TOE GAME.AssemblyInfoInputs.cache
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\TIC-TAC-TOE GAME\TIC-TAC-TOE GAME\obj\Debug\netcoreapp3.1\TIC-TAC-TOE GAME.AssemblyInfo.cs
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\TIC-TAC-TOE GAME\TIC-TAC-TOE GAME\obj\Debug\netcoreapp3.1\TIC-TAC-TOE GAME.csproj.CoreCompileInputs.cache
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\TIC-TAC-TOE GAME\TIC-TAC-TOE GAME\obj\Debug\netcoreapp3.1\TIC-TAC-TOE GAME.dll
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\TIC-TAC-TOE GAME\TIC-TAC-TOE GAME\obj\Debug\netcoreapp3.1\TIC-TAC-TOE GAME.pdb
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\TIC-TAC-TOE GAME\TIC-TAC-TOE GAME\obj\Debug\netcoreapp3.1\TIC-TAC-TOE GAME.genruntimeconfig.cache

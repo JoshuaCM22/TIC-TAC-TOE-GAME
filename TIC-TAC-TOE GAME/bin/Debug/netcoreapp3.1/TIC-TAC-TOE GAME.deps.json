@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TIC-TAC-TOE GAME/1.0.0": {
+        "runtime": {
+          "TIC-TAC-TOE GAME.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TIC-TAC-TOE GAME/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
